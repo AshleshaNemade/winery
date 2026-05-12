@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kesha/OneDrive/Desktop/MLOps/winery/mlruns/0/18b4568609a042bcb8588c4ca81a6ae5/artifacts
+end_time: 1778615749689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18b4568609a042bcb8588c4ca81a6ae5
+run_name: welcoming-kit-215
+run_uuid: 18b4568609a042bcb8588c4ca81a6ae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778615741751
+status: 3
+tags: []
+user_id: kesha

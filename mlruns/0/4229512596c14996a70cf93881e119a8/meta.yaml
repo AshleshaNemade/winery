@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kesha/OneDrive/Desktop/MLOps/winery/mlruns/0/4229512596c14996a70cf93881e119a8/artifacts
+end_time: 1778616588416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4229512596c14996a70cf93881e119a8
+run_name: abrasive-fly-403
+run_uuid: 4229512596c14996a70cf93881e119a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778616582787
+status: 3
+tags: []
+user_id: kesha

@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 from winery_project.constants import *
 from winery_project.utils.common import read_yaml, create_directories
 from winery_project.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig)
