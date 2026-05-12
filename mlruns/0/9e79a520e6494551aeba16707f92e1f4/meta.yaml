@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kesha/OneDrive/Desktop/MLOps/winery/mlruns/0/9e79a520e6494551aeba16707f92e1f4/artifacts
+end_time: 1778501527313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e79a520e6494551aeba16707f92e1f4
+run_name: sneaky-gnu-673
+run_uuid: 9e79a520e6494551aeba16707f92e1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778501520642
+status: 3
+tags: []
+user_id: kesha

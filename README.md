@@ -10,3 +10,11 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+## dagshub
+
+MLFLOW_TRACKING_URL = https://dagshub.com/AshleshaNemade/winery.mlflow \
+MLFLOW_TRACKING_USERNAME=AshleshaNemade \
+MLFLOW_TRACKING_PASSWORD=d64fffa456a3f4b7bfaa976259b77c0bef6dc2a6 \
+

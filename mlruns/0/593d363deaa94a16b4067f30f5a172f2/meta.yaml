@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kesha/OneDrive/Desktop/MLOps/winery/mlruns/0/593d363deaa94a16b4067f30f5a172f2/artifacts
+end_time: 1778501854237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 593d363deaa94a16b4067f30f5a172f2
+run_name: bold-yak-254
+run_uuid: 593d363deaa94a16b4067f30f5a172f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778501845731
+status: 3
+tags: []
+user_id: kesha
